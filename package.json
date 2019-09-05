@@ -1,0 +1,25 @@
+{
+  "name": "Class-Tracker",
+  "version": "1.0.0",
+  "description": "Crud application for a class roster using the MERN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazontez/Class-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lazontez/Class-Tracker/issues"
+  },
+  "homepage": "https://github.com/Lazontez/Class-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.12"
+  }
+}
