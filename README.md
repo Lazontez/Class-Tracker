@@ -1,2 +1,2 @@
 # Class-Tracker
-Crud application to keep track of employees
+Crud application for a class roster using the MERN stack.
